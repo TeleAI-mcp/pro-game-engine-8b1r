@@ -1,2 +1,3 @@
-# pro-game-engine-8b1r
-A game engine project for modern development workflows
+# Pro Game Engine 8B1R
+
+A game engine project for modern development workflows.
